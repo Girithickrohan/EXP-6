@@ -27,10 +27,6 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-![WhatsApp Image 2025-11-05 at 14 34 44_45488a98](https://github.com/user-attachments/assets/5f26054d-2049-4312-b9f2-16ba1cb8378e)
-
-![WhatsApp Image 2025-11-05 at 14 35 22_e0e2b8a2](https://github.com/user-attachments/assets/b08e1efd-010b-4f39-9131-19f99d1e403f)
-
 NULL-Displacement:
 
 <img width="1027" height="716" alt="image" src="https://github.com/user-attachments/assets/3506d899-8a4f-4f08-b611-21b6ddf0c122" />
