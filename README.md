@@ -23,9 +23,9 @@ I. Connect the multimeter at the output of kit..
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-![IMG]()
+![IMG](https://github.com/Girithickrohan/EXP-6/blob/main/1.jpeg)
 
-![IMG]()
+![IMG](https://github.com/Girithickrohan/EXP-6/blob/main/2.jpeg)
 
 ![IMG]()
 
