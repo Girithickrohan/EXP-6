@@ -27,7 +27,7 @@ I. Connect the multimeter at the output of kit..
 
 ![IMG](https://github.com/Girithickrohan/EXP-6/blob/main/2.jpeg)
 
-![IMG]()
+![IMG](https://github.com/Girithickrohan/EXP-6/blob/main/3.jpeg)
 
 ## OUTPUT:
 
