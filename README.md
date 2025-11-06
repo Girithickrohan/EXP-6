@@ -43,4 +43,5 @@ I. Connect the multimeter at the output of kit..
 
 <img width="1034" height="711" alt="image" src="https://github.com/user-attachments/assets/6f2d5e6b-c7e6-4c63-8843-56a006013dc5" />
 
-## RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+## RESULT: 
+LVDT was studied well and graph of displacement was linear for a particular range.
